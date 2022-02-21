@@ -1,1 +1,1 @@
-# Predicting the properties of organic molecules with neural networks
+# Predicting properties of organic molecules with neural networks
