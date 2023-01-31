@@ -61,6 +61,7 @@ For this model, the 50 epochs were sufficient for training (Figure 4). With cros
 
 Figure 4 - Training history for Model 1 as an example.
 
+![image](https://github.com/gt2199/Molecules/blob/main/notebooks/cross-validation.svg)
 
 Figure 5 - Cross validation using validation loss for the 6 models.
 
